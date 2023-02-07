@@ -1,4 +1,4 @@
-FROM storezhang/ubuntu:23.04
+FROM storezhang/ubuntu:23.04.17
 
 
 LABEL author="storezhang<华寅>"
